@@ -1,9 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.audio_excursions">
    <application
+        
         android:label="audio_excursions"
         android:icon="@mipmap/ic_launcher">
         <activity
+        
             android:name=".MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
@@ -39,6 +41,6 @@
             android:value="2" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="<AIzaSyCMxO5NaLcX4QDMl437_cY6iw6GhqC0WgM>" />
+            android:value="<AIzaSyBQ_7E8EcmlkVhXyFIYle8mujKj0PaXslk>"/>
     </application>
 </manifest>
